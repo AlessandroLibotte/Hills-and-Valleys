@@ -7,3 +7,7 @@ All the coding took me about 5 days and when i started i knew nothing about game
 other games really soon.
 
 You are totally free to download the game and the source code and modify it as you like.
+
+
+PS:
+Sometime when you exec the game it starts a small window with a zero in it, in that case restart it until it works, i don't know what's causing the problem
